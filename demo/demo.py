@@ -1,4 +1,5 @@
 # Copyright (c) Facebook, Inc. and its affiliates.
+pip install 'git+https://github.com/facebookresearch/detectron2.git'
 import argparse
 import glob
 import multiprocessing as mp
